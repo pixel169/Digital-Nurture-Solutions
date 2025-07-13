@@ -1,0 +1,14 @@
+# .gitignore for .NET Projects
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscape
+*.sln.docstates
+
+# Other
+*.vs/
