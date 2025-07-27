@@ -3,6 +3,7 @@
 # Build results
 [Bb]in/
 [Oo]bj/
+node_modules/
 
 # User-specific files
 *.suo
