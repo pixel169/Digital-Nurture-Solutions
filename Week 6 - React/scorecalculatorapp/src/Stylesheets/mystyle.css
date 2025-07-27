@@ -1,0 +1,18 @@
+.score-box {
+    border: 2px solid #4caf50;
+    padding: 20px;
+    margin: 30px auto;
+    width: 60%;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    text-align: left;
+}
+
+.score-box h2 {
+    color: #4caf50;
+}
+
+.score-box p {
+    font-size: 16px;
+    margin: 5px 0;
+}
